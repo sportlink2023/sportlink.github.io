@@ -1,0 +1,19 @@
+.my-h3{
+    
+    font-family: 'Dongle', sans-serif;
+    font-size: 55px;
+    
+}
+.room{
+    background-color: rgb(33, 32, 32);
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+.roomCard {
+    transition: transform 0.2s ease-in-out;
+}
+.roomCard:hover {
+    transform: scale(1.2);
+
+}
